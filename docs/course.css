@@ -56,7 +56,7 @@ IMG.formula {
 	BORDER-RIGHT: blue thin solid; BORDER-TOP: blue thin solid; BORDER-LEFT: blue thin solid; BORDER-BOTTOM: blue thin solid
 }
 PRE {
-	BORDER-RIGHT: #777777 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #777777 1px solid; PADDING-LEFT: 0.5em; FONT-SIZE: 90%; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 1em; BORDER-LEFT: #777777 1px solid; COLOR: #006400; MARGIN-RIGHT: 2em; PADDING-TOP: 0.5em; BORDER-BOTTOM: #777777 1px solid; FONT-FAMILY: Luxi Mono, Luxi Sans, Monospace, sans-serif, ËÎÌו; WHITE-SPACE: pre; BACKGROUND-COLOR: snow
+	BORDER-RIGHT: #777777 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #777777 1px solid; PADDING-LEFT: 0.5em; FONT-SIZE: 105%; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 1em; BORDER-LEFT: #777777 1px solid; COLOR: #000000; MARGIN-RIGHT: 2em; PADDING-TOP: 0.5em; BORDER-BOTTOM: #777777 1px solid; FONT-FAMILY: Luxi Mono, Luxi Sans, Monospace, sans-serif, ËÎÌו; WHITE-SPACE: pre; BACKGROUND-COLOR: snow
 }
 PRE.syntax {
 	BACKGROUND: lightblue
